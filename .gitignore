@@ -1,0 +1,21 @@
+# Local environment
+.env
+.env.local
+.env.*.local
+.env.example
+
+# Node
+node_modules/
+
+# Build output
+dist/
+
+# Data files
+data/
+
+# Logs
+npm-debug.log*
+
+# Editor directories
+.vscode/
+.DS_Store
