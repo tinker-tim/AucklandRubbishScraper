@@ -35,5 +35,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            tinker-tim/auckland-rubbish-scraper:latest
-            tinker-tim/auckland-rubbish-scraper:${{ github.sha }}
+            blocknite/auckland-rubbish-scraper:latest
+            blocknite/auckland-rubbish-scraper:${{ github.sha }}
